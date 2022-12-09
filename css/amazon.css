@@ -1,0 +1,108 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: #222f3f;
+}
+header img {
+  padding: 0.5em;
+  padding-inline: 2em;
+}
+header div {
+  background-color: #364759;
+  padding: 0.5em;
+  padding-inline: 1.5em;
+}
+header button {
+  background-color: #364759;
+  border: none;
+  color: white;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-top: 0.5;
+  padding-bottom: 0.5;
+}
+main {
+  padding-top: 1em;
+  padding-inline: 1em;
+  margin: 1em;
+}
+main div.sfondoarancione {
+  background-color: #f56600;
+  text-align: center;
+}
+main div.sfondoarancione p {
+  color: white;
+  margin: 0;
+  font-weight: 100;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}
+div.sfondoimg {
+  background-image: url(../assets/bg-image.png);
+  background-size: 100%;
+  text-align: center;
+  padding-top: 2em;
+  padding-bottom: 2em;
+
+  margin-top: 2em;
+}
+div.sfondoimg h3 {
+  color: white;
+  font-size: 1em;
+}
+div.sfondoimg h2 {
+  color: white;
+  font-size: 2em;
+}
+section {
+  margin-top: 2em;
+  height: 400px;
+  margin-bottom: 2em;
+  padding-bottom: 5em;
+  padding-inline: 2em;
+}
+section a {
+  text-decoration: none;
+}
+section img {
+  background-color: white;
+  width: 20%;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #e1e5e6;
+  margin-inline: 2em;
+  height: 100%;
+  object-fit: cover;
+}
+aside {
+  text-align: center;
+  margin: 1em;
+  width: 100%;
+}
+aside h3 {
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 1em;
+  font-weight: 600;
+}
+aside a {
+  text-decoration: none;
+}
+footer {
+  background-color: #222f3f;
+  text-align: center;
+}
+footer div {
+  padding: 1em;
+  padding-inline: 2;
+  background-color: #364759;
+}
+footer div a {
+  color: white;
+  font-weight: 600;
+  padding: 1em;
+}
+footer img {
+  padding-top: 3.5em;
+  padding-bottom: 3.5em;
+}
